@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background: url('https://www.shutterstock.com/image-photo/cars-parked-row-on-outdoor-600nw-1378241768.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #fff;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+
+.card {
+    background-color: #ffffff; 
+    border: 1px solid #ddd; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.card-body {
+    color: #000000; 
+}
+
+.card-title {
+    color: #000000; 
+    font-weight: bold; 
+}
+
+.card-text {
+    color: #000000; 
+    font-size: 14px; 
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
